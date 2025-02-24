@@ -1,0 +1,296 @@
+{
+    "version": "0.4",
+    "title": "Loop Product",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "647d5f9c",
+            "settings": [],
+            "elements": [
+                {
+                    "id": "34343e47",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "content_position": "space-between",
+                        "margin": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "719e49fb",
+                            "settings": {
+                                "margin": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "1",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "margin_tablet": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "margin_mobile": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "3f4385c",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4a5a68cd",
+                                            "settings": {
+                                                "__dynamic__": {
+                                                    "image": "[elementor-tag id=\"\" name=\"post-featured-image\" settings=\"%7B%22fallback%22%3A%7B%22url%22%3A%22%22%2C%22id%22%3A%22%22%2C%22size%22%3A%22%22%7D%7D\"]",
+                                                    "link": "[elementor-tag id=\"76ef242\" name=\"post-url\" settings=\"%7B%7D\"]"
+                                                },
+                                                "image_size": "full",
+                                                "link_to": "custom",
+                                                "_background_background": "classic",
+                                                "__globals__": {
+                                                    "_background_color": "globals\/colors?id=291baba"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "theme-post-featured-image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4e0e93c1",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "title_text": "This is the heading",
+                                                "description_text": "heading",
+                                                "title_size": "div",
+                                                "title_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "__dynamic__": {
+                                                    "title_text": "[elementor-tag id=\"0253d9d\" name=\"woocommerce-product-title-tag\" settings=\"%7B%7D\"]",
+                                                    "description_text": "[elementor-tag id=\"ae7843e\" name=\"woocommerce-product-price-tag\" settings=\"%7B%7D\"]",
+                                                    "link": "[elementor-tag id=\"cde00e7\" name=\"post-url\" settings=\"%7B%7D\"]"
+                                                },
+                                                "__globals__": {
+                                                    "title_typography_typography": "globals\/typography?id=7044a64",
+                                                    "title_color": "globals\/colors?id=secondary",
+                                                    "description_typography_typography": "globals\/typography?id=b2ce6af",
+                                                    "description_color": "globals\/colors?id=c94d9ab"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "75a65e7b",
+                            "settings": {
+                                "title": "Add Your Heading Text Here",
+                                "header_size": "h6",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "14",
+                                    "bottom": "5",
+                                    "left": "14",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_background_background": "gradient",
+                                "_background_gradient_type": "radial",
+                                "_background_gradient_position": "top left",
+                                "__dynamic__": {
+                                    "title": "[elementor-tag id=\"f0e5882\" name=\"woocommerce-product-sale-tag\" settings=\"%7B%22text%22%3A%22Sale!%22%7D\"]"
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=text",
+                                    "_background_color": "globals\/colors?id=a2c0d56",
+                                    "_background_color_b": "globals\/colors?id=332724a"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "50fbb6e2",
+                            "settings": [],
+                            "elements": [
+                                {
+                                    "id": "17c379dc",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "space_between_widgets": 7,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7a4f5266",
+                                            "settings": {
+                                                "text": "Read More",
+                                                "align": "justify",
+                                                "size": "xs",
+                                                "background_color": "#02010100",
+                                                "_element_custom_width": {
+                                                    "unit": "%",
+                                                    "size": 50,
+                                                    "sizes": []
+                                                },
+                                                "_element_vertical_align": "center",
+                                                "__dynamic__": {
+                                                    "link": "[elementor-tag id=\"f7b4f51\" name=\"post-url\" settings=\"%7B%7D\"]"
+                                                },
+                                                "__globals__": {
+                                                    "button_text_color": "globals\/colors?id=d49ac81",
+                                                    "hover_color": "globals\/colors?id=text",
+                                                    "button_background_hover_color": "globals\/colors?id=332724a",
+                                                    "button_hover_border_color": "globals\/colors?id=332724a"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6a378119",
+                                            "settings": {
+                                                "alignment": "justify",
+                                                "button_border_border": "solid",
+                                                "button_border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "button_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "button_padding": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "show_quantity": "",
+                                                "_element_custom_width": {
+                                                    "unit": "%",
+                                                    "size": 50,
+                                                    "sizes": []
+                                                },
+                                                "_element_vertical_align": "center",
+                                                "__globals__": {
+                                                    "button_typography_typography": "globals\/typography?id=accent",
+                                                    "button_text_color": "globals\/colors?id=text",
+                                                    "button_bg_color": "globals\/colors?id=d49ac81",
+                                                    "button_text_color_hover": "globals\/colors?id=text",
+                                                    "button_bg_color_hover": "globals\/colors?id=332724a",
+                                                    "view_cart_typography_typography": "globals\/typography?id=69c152f",
+                                                    "button_border_color": "globals\/colors?id=d49ac81",
+                                                    "button_border_color_hover": "globals\/colors?id=332724a"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "woocommerce-product-add-to-cart",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "preview_id": "880"
+    }
+}

@@ -1,0 +1,1516 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Rexus - Electric Vehicles Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/askproject.net",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/askproject.net\/rexus\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Newsletter",
+            "screenshot": "screenshots\/form-newsletter.jpg",
+            "source": "templates\/form-newsletter.json",
+            "preview_url": "https:\/\/askproject.net\/rexus\/template-kit\/form-newsletter\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/askproject.net\/rexus\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/askproject.net\/rexus\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/askproject.net\/rexus\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Vehicles",
+            "screenshot": "screenshots\/vehicles.jpg",
+            "source": "templates\/vehicles.json",
+            "preview_url": "https:\/\/askproject.net\/rexus\/template-kit\/vehicles\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Vehicle Detail",
+            "screenshot": "screenshots\/vehicle-detail.jpg",
+            "source": "templates\/vehicle-detail.json",
+            "preview_url": "https:\/\/askproject.net\/rexus\/template-kit\/vehicle-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/askproject.net\/rexus\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Contact",
+            "screenshot": "screenshots\/form-contact.jpg",
+            "source": "templates\/form-contact.json",
+            "preview_url": "https:\/\/askproject.net\/rexus\/template-kit\/form-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/askproject.net\/rexus\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/askproject.net\/rexus\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/askproject.net\/rexus\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Reviews",
+            "screenshot": "screenshots\/reviews.jpg",
+            "source": "templates\/reviews.json",
+            "preview_url": "https:\/\/askproject.net\/rexus\/template-kit\/reviews\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/askproject.net\/rexus\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/askproject.net\/rexus\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/askproject.net\/rexus\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Gum Elementor Addon",
+            "version": "1.3.6",
+            "file": "gum-elementor-addon\/gum-elementor-addon.php",
+            "author": "TemeGUM"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.8.9",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.23.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.2.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo_Asset-1.png",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/logo_Asset-1-800x158.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 19839,
+            "dimensions": [
+                1501,
+                297
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "hyundai-motor-group-g0dBVbXOs_s-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/hyundai-motor-group-g0dBVbXOs_s-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/vehicle-detail.json",
+                    "name": "Vehicle Detail"
+                }
+            ],
+            "filesize": 235449,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/g0dBVbXOs_s"
+        },
+        {
+            "filename": "hyundai-motor-group-rM_s3wX4sQs-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/hyundai-motor-group-rM_s3wX4sQs-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 131058,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/rM_s3wX4sQs"
+        },
+        {
+            "filename": "hyundai-motor-group-pXo8Z5dgwxg-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/hyundai-motor-group-pXo8Z5dgwxg-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 182241,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/pXo8Z5dgwxg"
+        },
+        {
+            "filename": "hyundai-motor-group-9nexkELbMcs-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/hyundai-motor-group-9nexkELbMcs-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 109847,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/9nexkELbMcs"
+        },
+        {
+            "filename": "hyundai-motor-group-TQGoqK2ay7g-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/hyundai-motor-group-TQGoqK2ay7g-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 174981,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/TQGoqK2ay7g"
+        },
+        {
+            "filename": "hyundai-motor-group2-rM_s3wX4sQs-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/hyundai-motor-group2-rM_s3wX4sQs-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/vehicles.json",
+                    "name": "Vehicles"
+                },
+                {
+                    "source": "templates\/vehicle-detail.json",
+                    "name": "Vehicle Detail"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 197200,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/rM_s3wX4sQs"
+        },
+        {
+            "filename": "hyundai-motor-group-KpsavDr0nmo-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/hyundai-motor-group-KpsavDr0nmo-unsplash-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 208114,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/KpsavDr0nmo"
+        },
+        {
+            "filename": "woman-charges-her-electric-car-near-a-house-ZJ3A7BV.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/woman-charges-her-electric-car-near-a-house-ZJ3A7BV-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 168207,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZJ3A7BV"
+        },
+        {
+            "filename": "hyundai-motor-group-jahkKdBXEVo-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/hyundai-motor-group-jahkKdBXEVo-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/vehicles.json",
+                    "name": "Vehicles"
+                }
+            ],
+            "filesize": 193287,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/jahkKdBXEVo"
+        },
+        {
+            "filename": "hyundai-motor-group-yXT2M5dsm3E-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/hyundai-motor-group-yXT2M5dsm3E-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/vehicles.json",
+                    "name": "Vehicles"
+                },
+                {
+                    "source": "templates\/vehicle-detail.json",
+                    "name": "Vehicle Detail"
+                }
+            ],
+            "filesize": 130472,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/yXT2M5dsm3E"
+        },
+        {
+            "filename": "hyundai-motor-group-AAZwVqcD2yQ-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/hyundai-motor-group-AAZwVqcD2yQ-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/vehicles.json",
+                    "name": "Vehicles"
+                }
+            ],
+            "filesize": 244392,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/AAZwVqcD2yQ"
+        },
+        {
+            "filename": "woman-charges-her-electric-car-near-a-house-FZYUZ2H.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/woman-charges-her-electric-car-near-a-house-FZYUZ2H-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/vehicles.json",
+                    "name": "Vehicles"
+                }
+            ],
+            "filesize": 199630,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-FZYUZ2H"
+        },
+        {
+            "filename": "portrait-young-beautiful-woman-on-black-backgroun-EC2UMWT.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/portrait-young-beautiful-woman-on-black-backgroun-EC2UMWT-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 84065,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-EC2UMWT"
+        },
+        {
+            "filename": "portrait-of-happy-african-american-man-looking-at-KY33EHT.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/portrait-of-happy-african-american-man-looking-at-KY33EHT-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 89409,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-KY33EHT"
+        },
+        {
+            "filename": "elegant-young-woman-portrait-XSR9PFA.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/elegant-young-woman-portrait-XSR9PFA-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 112565,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-XSR9PFA"
+        },
+        {
+            "filename": "portrait-of-positive-glad-ginger-young-female-has-DFTL64Z.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/portrait-of-positive-glad-ginger-young-female-has-DFTL64Z-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 83329,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-DFTL64Z"
+        },
+        {
+            "filename": "portrait-of-mature-man-with-grey-hair-and-stubble-N2FETGY.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/portrait-of-mature-man-with-grey-hair-and-stubble-N2FETGY-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 103662,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-N2FETGY"
+        },
+        {
+            "filename": "close-up-portrait-of-young-businesswoman-outdoors-5PRP7CF.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/close-up-portrait-of-young-businesswoman-outdoors-5PRP7CF-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 98682,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-5PRP7CF"
+        },
+        {
+            "filename": "client2.png",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/client2-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 18459,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "client3.png",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/client3-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 13290,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "client4.png",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/client4-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 11189,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "client5.png",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/client5-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 15631,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "client6.png",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/client6-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 8858,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "client7.png",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/client7-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 22978,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "client1.png",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/client1-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 16237,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "client8.png",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/client8-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 12829,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "client9.png",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/client9-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 12908,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "client10.png",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/client10-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 16442,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "seller-consulting-client-about-new-electro-car-LUAA4Z8.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/seller-consulting-client-about-new-electro-car-LUAA4Z8-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 171990,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-LUAA4Z8"
+        },
+        {
+            "filename": "woman-charges-her-electric-car-near-a-house-BUDKB65.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/woman-charges-her-electric-car-near-a-house-BUDKB65-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 232094,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-BUDKB65"
+        },
+        {
+            "filename": "portrait-of-smiling-professional-mature-business-m-Z9WR6UA.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/portrait-of-smiling-professional-mature-business-m-Z9WR6UA-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 161479,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z9WR6UA"
+        },
+        {
+            "filename": "portrait-business-and-man-with-a-smile-ceo-and-3LWAQSF.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/portrait-business-and-man-with-a-smile-ceo-and-3LWAQSF-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 115921,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-3LWAQSF"
+        },
+        {
+            "filename": "modern-young-manager-portrait-NBCGWHT.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/modern-young-manager-portrait-NBCGWHT-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 157254,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-NBCGWHT"
+        },
+        {
+            "filename": "portrait-of-successful-mature-investor-senior-bus-VRU77XY.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/portrait-of-successful-mature-investor-senior-bus-VRU77XY-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 104982,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-VRU77XY"
+        },
+        {
+            "filename": "close-up-of-electric-car-charging-ecology-transpo-JXBXLQR.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/close-up-of-electric-car-charging-ecology-transpo-JXBXLQR-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/vehicles.json",
+                    "name": "Vehicles"
+                },
+                {
+                    "source": "templates\/vehicle-detail.json",
+                    "name": "Vehicle Detail"
+                }
+            ],
+            "filesize": 162435,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-JXBXLQR"
+        },
+        {
+            "filename": "hyundai-motor-group-3R-0nBOlaOc-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/hyundai-motor-group-3R-0nBOlaOc-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/vehicles.json",
+                    "name": "Vehicles"
+                }
+            ],
+            "filesize": 209532,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/3R-0nBOlaOc"
+        },
+        {
+            "filename": "hyundai-motor-group2-yN2ZwslnjA-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/08\/hyundai-motor-group2-yN2ZwslnjA-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/vehicles.json",
+                    "name": "Vehicles"
+                }
+            ],
+            "filesize": 213200,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/yN2ZwslnjA"
+        },
+        {
+            "filename": "hyundai-motor-group-J06f5D8i5d0-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/hyundai-motor-group-J06f5D8i5d0-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/vehicle-detail.json",
+                    "name": "Vehicle Detail"
+                }
+            ],
+            "filesize": 210861,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/J06f5D8i5d0"
+        },
+        {
+            "filename": "bram-van-oost-WIhlNrqSysc-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/bram-van-oost-WIhlNrqSysc-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/vehicle-detail.json",
+                    "name": "Vehicle Detail"
+                }
+            ],
+            "filesize": 184485,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/WIhlNrqSysc"
+        },
+        {
+            "filename": "vitali-adutskevich-4hUNdls8yoQ-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/vitali-adutskevich-4hUNdls8yoQ-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/vehicle-detail.json",
+                    "name": "Vehicle Detail"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 111153,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/4hUNdls8yoQ"
+        },
+        {
+            "filename": "bram-van-oost-oOCI35aIA3M-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/bram-van-oost-oOCI35aIA3M-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/vehicle-detail.json",
+                    "name": "Vehicle Detail"
+                }
+            ],
+            "filesize": 187352,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/oOCI35aIA3M"
+        },
+        {
+            "filename": "mark-chan-vkNRKHlR-GQ-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/mark-chan-vkNRKHlR-GQ-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/vehicle-detail.json",
+                    "name": "Vehicle Detail"
+                }
+            ],
+            "filesize": 135589,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/vkNRKHlR-GQ"
+        },
+        {
+            "filename": "bram-van-oost-2NAquPmxld8-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/bram-van-oost-2NAquPmxld8-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/vehicle-detail.json",
+                    "name": "Vehicle Detail"
+                }
+            ],
+            "filesize": 161235,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/2NAquPmxld8"
+        },
+        {
+            "filename": "mark-chan-5lCWPJmT-2U-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/mark-chan-5lCWPJmT-2U-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/vehicle-detail.json",
+                    "name": "Vehicle Detail"
+                }
+            ],
+            "filesize": 86963,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/5lCWPJmT-2U"
+        },
+        {
+            "filename": "businessman-holding-power-supply-and-charging-his-TPT5UTJ.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/businessman-holding-power-supply-and-charging-his-TPT5UTJ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 189324,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-TPT5UTJ"
+        },
+        {
+            "filename": "woman-charging-electric-car-while-talking-on-phone-QQV5FVN.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/woman-charging-electric-car-while-talking-on-phone-QQV5FVN-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 199399,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-QQV5FVN"
+        },
+        {
+            "filename": "dealer-sells-electric-suv-to-business-woman-at-car-P8FERFE.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/dealer-sells-electric-suv-to-business-woman-at-car-P8FERFE-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 191042,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8FERFE"
+        },
+        {
+            "filename": "taking-charging-wire-from-the-truck-young-stylish-J726WEN.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/taking-charging-wire-from-the-truck-young-stylish-J726WEN-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 202328,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-J726WEN"
+        },
+        {
+            "filename": "young-confident-african-business-man-standing-in-o-GTKHYWH.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/young-confident-african-business-man-standing-in-o-GTKHYWH-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 142494,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-GTKHYWH"
+        },
+        {
+            "filename": "confident-young-professional-business-man-standing-Q8VC56L.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/confident-young-professional-business-man-standing-Q8VC56L-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 92584,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q8VC56L"
+        },
+        {
+            "filename": "portrait-of-confident-caucasian-female-manager-hol-KYSP2UP.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/portrait-of-confident-caucasian-female-manager-hol-KYSP2UP-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 84043,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-KYSP2UP"
+        },
+        {
+            "filename": "happy-confident-indian-businessman-standing-in-off-DCXP57R.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/happy-confident-indian-businessman-standing-in-off-DCXP57R-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 121543,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-DCXP57R"
+        },
+        {
+            "filename": "woman-on-the-electric-cars-charge-station-at-dayti-R74UVHJ.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/07\/woman-on-the-electric-cars-charge-station-at-dayti-R74UVHJ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 178063,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-R74UVHJ"
+        },
+        {
+            "filename": "404_Asset-4.png",
+            "thumbnail_url": "https:\/\/askproject.net\/rexus\/wp-content\/uploads\/sites\/191\/2024\/08\/404_Asset-4-800x330.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 21996,
+            "dimensions": [
+                1501,
+                620
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        }
+    ]
+}
